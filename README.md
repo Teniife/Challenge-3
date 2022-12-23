@@ -1,2 +1,1 @@
-# Challenge-3
-Password Generator Project
+# Password Generator Starter Code
